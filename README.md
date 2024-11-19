@@ -1,4 +1,4 @@
-** Hey, welcome to my GitHub! **👋
+Hey, welcome to my GitHub! 👋
 So, you’re here to check out my work? Awesome! But before you judge me based on the few public repositories you see, let me set the record straight:
 
 The Real Deal
