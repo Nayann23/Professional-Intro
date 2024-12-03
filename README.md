@@ -3,7 +3,8 @@ So, you’re here to check out my work? Awesome! But before you judge me based o
 
 
 The Real Deal is
-There are More than 20++ AWWWARDS WEBISTE CLONE WITH ALL THE EFFECT AND INTERACTIONS...
+There are More than 20++ ***AWWWARDS WEBISTE CLONE WITH ALL THE EFFECT AND INTERACTIONS***
+...
 Most of my best projects are locked away in private repositories. Why?
 Because I believe in protecting my hard work and ideas. 💡 It’s not about hiding—it’s about keeping the originality and creativity intact.
 
