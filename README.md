@@ -9,7 +9,7 @@ Advanced Web Apps 🖥️
 Full-Stack Magic with the MERN Stack ✨
 Data Analytics Projects turning raw data into actionable insights 📊
 Sleek, Responsive Designs 🎨
-Tools and Utilities that just work ⚙️
+Tools and Utilities that just work ⚙️ 
 Want a Sneak Peek?
 I love connecting with like-minded professionals! If you’re interested in collaborating or want to discuss my projects, feel free to reach out.
 
